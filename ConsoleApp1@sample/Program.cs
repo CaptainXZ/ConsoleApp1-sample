@@ -10,6 +10,7 @@ namespace ConsoleApp1_sample
             Console.WriteLine("Nothing");
             Console.WriteLine("Udam");
             Console.WriteLine("Ranger");
+            Console.WriteLine("TGI");
             Console.Read();
         }
     }
